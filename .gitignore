@@ -1,5 +1,13 @@
-# large data
+# large data and UHDAS data
 *.nc
+*.blk
+*.bbn
+*.cnh
+*.lst
+*.tr
+*.cnt
+*.tmp
+*.cnt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
